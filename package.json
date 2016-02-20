@@ -1,6 +1,6 @@
 {
   "name": "rainbow-tail",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A life-changing ember add-on to add rainbows to the page when a button is clicked.",
   "directories": {
     "doc": "doc",
