@@ -1,7 +1,7 @@
 {
   "name": "rainbow-tail",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.0.1",
+  "description": "A life-changing ember add-on to add rainbows to the page when a button is clicked.",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -11,11 +11,11 @@
     "start": "ember server",
     "test": "ember try:testall"
   },
-  "repository": "",
+  "repository": "https://github.com/ladyleet/rainbow-tail",
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "Tracy Lee @ladyleet",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.2.0",
